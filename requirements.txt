@@ -1,3 +1,21 @@
-Flask==3.0.3
-gunicorn==23.0.0
-Werkzeug==3.0.3
+langchain
+langchain-community
+langchain-experimental
+fastapi
+python-dotenv
+streamlit
+uvicorn
+pydantic
+httpx
+requests
+langchain_google_community
+langchain_tavily
+langchain_groq
+langchain_openai
+langgraph
+langchain-google-community[places]
+pyyaml
+starlette
+python-multipart
+
+# Local package installation removed for Cloud Run deployment
