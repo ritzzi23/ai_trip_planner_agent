@@ -2,6 +2,9 @@
 
 An intelligent, agentic AI-powered travel planner that leverages a self-hosted open LLM (Gemma 3 1B) and real-time data from multiple APIs. Deployed fully on Google Cloud Run with GPU acceleration.
 
+# Demo Video
+https://drive.google.com/file/d/1MCXT3pkWk2TM9Jahw1-eD9nvmwBKKjXP/view?usp=drive_link 
+
 ---
 
 ## 🚀 Features
